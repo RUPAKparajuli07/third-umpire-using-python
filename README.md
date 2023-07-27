@@ -1,7 +1,7 @@
 # Documentation for "Let's find fault of the game (Third Umpire)" Application
 
 ## Description:
-"Let's find fault of the game" is a Python application built using the Tkinter library for creating graphical user interfaces, and OpenCV (cv2) for handling video processing. The application allows users to watch a video clip and make decisions about specific moments in the video. The user can play the video at different speeds, move frame by frame, and make decisions whether a player is "out" or "not out" at certain points in the video. The application displays images with text overlays to indicate the decision status.
+"Let's find fault of the game" is a Python application built using the Tkinter library for creating graphical user interfaces, and OpenCV (cv2) for handling video processing. The application allows users to watch a video clip and make decisions about specific moments in the video. The user can play the video at different speeds, move frame by frame, and make decisions whether a player is "out" or "not out" at certain points in the video. The application displays images with text overlays to indicate the decision status.  
 
 ## Requirements:
 - Python 3.x
