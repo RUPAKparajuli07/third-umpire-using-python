@@ -70,7 +70,7 @@ SET_WIDTH = 700
 SET_HEIGHT = 800
 
 window = tkinter.Tk()
-window.title("Let's find fault")
+window.title("Let's find fault of game")
 
 
 window.state('zoomed')
